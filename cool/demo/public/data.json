@@ -1,0 +1,29 @@
+[
+    {
+        "name": "手机",
+        "id": 1,
+        "children": [
+            {
+                "title": "裙子",
+                "img": "http://img3.redocn.com/tupian/20150312/haixinghezhenzhubeikeshiliangbeijing_3937174.jpg"
+            },
+            {
+                "title": "裤子",
+                "img": "http://img3.redocn.com/tupian/20150312/haixinghezhenzhubeikeshiliangbeijing_3937174.jpg"
+            }
+        ]
+    },{
+        "name": "电宝",
+        "id": 2,
+        "children": [
+            {
+                "title": "鞋子",
+                "img": "http://img3.redocn.com/tupian/20150312/haixinghezhenzhubeikeshiliangbeijing_3937174.jpg"
+            },
+            {
+                "title": "辣子",
+                "img": "http://img3.redocn.com/tupian/20150312/haixinghezhenzhubeikeshiliangbeijing_3937174.jpg"
+            }
+        ]
+    }
+]

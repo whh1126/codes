@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "price": 10,
+        "num": 1,
+        "title": "苹果",
+        "flag":false
+    },
+    {
+        "id": 2,
+        "price": 15,
+        "num": 1,
+        "title": "香蕉",
+        "flag": false
+    },
+    {
+        "id": 3,
+        "price": 20,
+        "num": 1,
+        "title": "葡萄",
+        "flag": false
+    },
+    {
+        "id": 4,
+        "price": 25,
+        "num": 1,
+        "title": "橘子",
+        "flag": false
+    },
+    {
+        "id": 5,
+        "price": 30,
+        "num": 1,
+        "title": "荔枝",
+        "flag": false
+    }
+]

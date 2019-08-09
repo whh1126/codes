@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.wrap {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+
+    .header {
+        width: 100%;
+        height: 44px;
+        line-height: 44px;
+        justify-content: space-around;
+        display: flex;
+        background: #ccc;
+      
+    }
+    .list {
+        width: 100%;
+        height: 50px;
+        line-height: 50px;
+        display: flex;
+        justify-content: space-around;
+        padding: 5px;
+        box-sizing: border-box;
+        background: cornflowerblue;
+
+        li {
+            color: #fff;
+            opacity: .3;
+        }
+         
+    }
+
+    .mark {
+        width: 100%;
+        height: 100%;
+
+    }
+
+    .uls {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        position: fixed;
+        right: -300px;
+        top: 100px;
+
+        li {
+            width: 21px;
+            height: 21px;
+            line-height: 21px;
+        }
+    }
+    .fix{
+        position: fixed;
+        top:0
+    }
+}

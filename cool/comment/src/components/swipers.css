@@ -1,0 +1,27 @@
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-wrapper {
+    width: 100%;
+    height: 100%;
+}
+
+.one {
+    width: 100%;
+    height: 150px;
+    background: #ccc;
+}
+
+.two {
+    width: 100%;
+    height: 150px;
+    background: pink;
+}
+
+.three {
+    width: 100%;
+    height: 150px;
+    background: cyan;
+}

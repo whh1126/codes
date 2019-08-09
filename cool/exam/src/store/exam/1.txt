@@ -1,0 +1,23 @@
+import { INIT_DATA } from "./exam.type"
+const defaultState = {
+    index: 0,//第几题
+    list: [],   //所有题目
+    curdata: {}//当前题目
+}
+const exam = (state = defaultState, action) => {
+    let newState = JSON.parse(JSON.stringify(state));
+    switch (action.type) {
+        case INIT_DATA:
+            newState.list = action.data;
+            // newState.curdata = state.curdata;
+            // console.log(newState.curdata)
+       newState.
+            console.log(state.curdata)
+            break;
+        default:
+            break;
+    }
+    return newState
+
+}
+export default exam
